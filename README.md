@@ -1,1 +1,1 @@
-# -fibanocci
+# -fibanocci series generation
